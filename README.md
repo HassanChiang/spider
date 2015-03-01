@@ -1,16 +1,13 @@
 spider
+
+fork from https://github.com/matuobasyouca/spider
+
+更新：解决原项目在eclipse依赖问题，不需要再次手动配置。
 ======
 
 a simple distributed spider in Java. 
 
 Java编写的一个简单分布式爬虫.支持模板插件化，以xml形式或java编码形式编写。
-
-dependency:com.meiya.base.mipatch download from https://github.com/matuobasyouca/e-shark-k;
-
-依赖com.meiya.base.mipatch 移步 https://github.com/matuobasyouca/e-shark-k;
-
-
-
 
 第一步：
 安装java环境与mysql数据库（任务、日志、结果存储）
